@@ -22,7 +22,7 @@
 - Gerekli paketleri yüklemek için : 
 
 ```
-python setup.py install
+pip install .
 ```
 
 - Aktarma işlemini başlatmak için : 
